@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://queroserdev.com
+title: Quero Ser dev!
+subtitle: De dev pra dev =]
+author: Halisson Vitor
 simple_search: http://google.com/search
 description:
 
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
