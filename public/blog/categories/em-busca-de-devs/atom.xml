@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: socializando | Quero Ser dev!]]></title>
-  <link href="http://queroserdev.com/blog/categories/socializando/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Em busca de devs | Quero Ser dev!]]></title>
+  <link href="http://queroserdev.com/blog/categories/em-busca-de-devs/atom.xml" rel="self"/>
   <link href="http://queroserdev.com/"/>
   <updated>2013-05-23T14:22:47-03:00</updated>
   <id>http://queroserdev.com/</id>
@@ -40,21 +40,6 @@
 <p>Não esperávamos total domínio em todos os assuntos, mas esperávamos que fosse possível debater rapidamente sobre cada um, principalmente sobre os 3 primeiros tópicos, que na minha opnião são indispensáveis para qualquer desenvolvedor.</p>
 
 <p>No próximo post já abordarei Lógica de Programação, falarei rapidamente sobre material para iniciantes, e materiais pra quem quer continuar aprimorando e desenvolvendo sua lógica.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://queroserdev.com/blog/2013/05/20/hello-world/"/>
-    <updated>2013-05-20T00:02:00-03:00</updated>
-    <id>http://queroserdev.com/blog/2013/05/20/hello-world</id>
-    <content type="html"><![CDATA[<p>Sejam bem vindos ao &ldquo;Quero Ser dev&rdquo;! Um blog feito por quem é apaixonado por desenvolvimento para quem quer ser um dev algum dia, ou simplesmente para aqueles, que assim como eu, não se cansam de aprender coisas novas todos os dias.</p>
-
-<p>Trabalho com desenvolvimento à 3 anos, e espero conseguir passar um pouco do que conheço, assim como desenvolver meu conhecimento e habilidades como desenvolvedor. O objetivo é postar sobre assuntos que acho relevante para qualquer desenvolvedor, em qualquer nível que seja, abordando desde o básico com o desenvolvimento de exercícios de lógica de programação utilizando linguagens que gosto, ou alguma linguagem que desejo aprender. Assim como desejo abordar vários outros assuntos como testes automatizados, engenharia de software, padrões, anti-padrões, relacionamento interpessoal no trabalho, enfim, tudo o que gira ao redor do mundo do desenvolvedor.</p>
-
-<p>A principal motivação para criar o blog, depois da vontade de melhoria contínua, é devido às experiências recentes que tivemos no processo seletivo da empresa onde trabalho. A falta de experiência de vários candidatos, assim como a dificuldade na abordagem de assuntos corriqueiros para desenvolvedores, como Orientação à Objetos, Testes Automatizados e outros, me inspirou a criar o blog, com o objetivo de ser um ponto de partida para quem deseja ser um bom desenvolvedor. Com isso em mente, nas próximas semanas darei início à uma série de posts abordando os tópicos que considerávamos importante nos candidatos, o que me permitirá aprofundar o meu conhecimento nessas áreas também.</p>
-
-<p>Sejam bem vindos!</p>
 ]]></content>
   </entry>
   
