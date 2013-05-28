@@ -2,22 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://queroserdev.com/blog/2013/05/20/hello-world/</loc>
-        <lastmod>2013-05-20T00:44:03-03:00</lastmod>
+        <lastmod>2013-05-28T07:39:40-03:00</lastmod>
     </url>
     <url>
         <loc>http://queroserdev.com/blog/2013/05/21/em-busca-de-devs-o-que-procuravamos/</loc>
-        <lastmod>2013-05-23T14:22:40-03:00</lastmod>
+        <lastmod>2013-05-28T07:39:08-03:00</lastmod>
     </url>
     <url>
         <loc>http://queroserdev.com/blog/archives/</loc>
-        <lastmod>2013-05-23T14:22:40-03:00</lastmod>
+        <lastmod>2013-05-28T07:39:40-03:00</lastmod>
     </url>
     <url>
         <loc>http://queroserdev.com/</loc>
-        <lastmod>2013-05-23T14:22:40-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://queroserdev.com/robots.txt</loc>
-        <lastmod>2013-05-18T23:39:04-03:00</lastmod>
+        <lastmod>2013-05-28T07:39:40-03:00</lastmod>
     </url>
 </urlset>
